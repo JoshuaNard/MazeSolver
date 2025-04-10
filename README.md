@@ -2,4 +2,4 @@ MazeSolver is a 2D Maze Solver built in C# using Windows Forms. The application 
 It features an interactive control panel that allows users to select the algorithm, maze size, and delay per step so that the search process is clearly animated.
 
 
-https://github.com/JoshuaNard/MazeSolver/blob/main/MazeSolverApp/Images/AStar.png
+![screenshot of conversion](https://github.com/JoshuaNard/MazeSolver/blob/main/MazeSolverApp/Images/BFS.png)
