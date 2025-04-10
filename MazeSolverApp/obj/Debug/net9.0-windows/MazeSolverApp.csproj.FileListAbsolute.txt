@@ -1,0 +1,14 @@
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.AssemblyInfoInputs.cache
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.AssemblyInfo.cs
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.csproj.CoreCompileInputs.cache
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\bin\Debug\net9.0-windows\MazeSolverApp.exe
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\bin\Debug\net9.0-windows\MazeSolverApp.deps.json
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\bin\Debug\net9.0-windows\MazeSolverApp.runtimeconfig.json
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\bin\Debug\net9.0-windows\MazeSolverApp.dll
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\bin\Debug\net9.0-windows\MazeSolverApp.pdb
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.dll
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\refint\MazeSolverApp.dll
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.pdb
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\MazeSolverApp.genruntimeconfig.cache
+C:\Users\jishy\Desktop\Coding Projects\mazesolver\MazeSolverApp\obj\Debug\net9.0-windows\ref\MazeSolverApp.dll
