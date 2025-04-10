@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolverApp\\MazeSolverApp.csproj": {}
+    "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolver\\MazeSolverApp\\MazeSolverApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolverApp\\MazeSolverApp.csproj": {
+    "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolver\\MazeSolverApp\\MazeSolverApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolverApp\\MazeSolverApp.csproj",
+        "projectUniqueName": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolver\\MazeSolverApp\\MazeSolverApp.csproj",
         "projectName": "MazeSolverApp",
-        "projectPath": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolverApp\\MazeSolverApp.csproj",
+        "projectPath": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolver\\MazeSolverApp\\MazeSolverApp.csproj",
         "packagesPath": "C:\\Users\\jishy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolverApp\\obj\\",
+        "outputPath": "C:\\Users\\jishy\\Desktop\\Coding Projects\\mazesolver\\MazeSolver\\MazeSolverApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
